@@ -1,0 +1,17 @@
+.title{
+    font-weight: 700;
+    color: blue;
+
+}
+
+.btn:hover{
+    font-weight: 600;
+}
+
+.li{
+    list-style: none;
+}
+
+.li:hover{
+    color: blue;
+}
